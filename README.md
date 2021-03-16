@@ -3,8 +3,14 @@ Hi human! My name is Tina, and here you can find a portfolio of my academic work
 
 ## Humanities
 
+### Satire
+### Book Reviews
+### Literature Honours Thesis
+### International Development
+
 ## Data Science
 
 ## Physical Sciences
+
 
 
