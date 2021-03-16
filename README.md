@@ -9,7 +9,7 @@ my full portfolio.
 *Evidence for astrological charts*
 
 ### Book Reviews
-*A Critical Review of Guy Delisle's 'Pyongyang': The trap of the Westerner's ignorance*
+(*A Critical Review of Guy Delisle's 'Pyongyang': The trap of the Westerner's ignorance*)[https://github.com/TorontoYYZ/Portfolio/blob/main/A%20Critical%20Review%20of%20Guy%20Delisle's%20'Pyongyang'.pdf]
 
 ### Theatre Reviews
 *Weyni Mengehsa's Stunning Production of 'A Streetcar Named Desire': changes to the Williams text*
