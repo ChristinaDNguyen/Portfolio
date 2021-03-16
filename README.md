@@ -42,7 +42,7 @@ my full portfolio.
 
 *Monte Carlo Integration In MatLab*
 
-*Differential equations in Matlab*
+*Differential equations in MatLab*
 
 *Modelling the solar system*
 
