@@ -6,7 +6,7 @@ my full portfolio.
 ## Humanities
 
 ### Satire
-*Evidence for astrological charts*
+[*Evidence for astrological charts*](https://github.com/TorontoYYZ/Portfolio/blob/main/Satire_Paper.pdf) and its [*Statement of authorial intent*](https://github.com/TorontoYYZ/Portfolio/blob/main/Statement%20of%20Authorial%20Intent.docx)
 
 ### Book Reviews
 [*A Critical Review of Guy Delisle's 'Pyongyang': The trap of the Westerner's ignorance*](https://github.com/TorontoYYZ/Portfolio/blob/main/A%20Critical%20Review%20of%20Guy%20Delisle's%20'Pyongyang'.pdf)
