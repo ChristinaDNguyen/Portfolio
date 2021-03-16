@@ -19,7 +19,7 @@ my full portfolio.
 
 ### International Development
 *WID and WAD: Two approaches to women's involvement in development*
-*A case study of Venezuela's collapse, 2015*
+[*A case study of Venezuela's collapse, 2015*](https://github.com/TorontoYYZ/Portfolio/blob/main/Venezuela%20Policy.pdf)
 
 ## Data Science
 
