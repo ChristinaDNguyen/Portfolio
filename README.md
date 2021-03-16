@@ -45,7 +45,9 @@ my full portfolio.
 ### Degrees Conferred
 ### Non-Degree Courses
 *Making and Meaning in the Medieval Manuscript,* Harvard edX, January 2021
+
 *Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado boulder, in progress
+
 ### Awards (and pending)
 Candidate for the MacCall-McBain Bursary, McGill University, 2020-2021	
 
