@@ -42,6 +42,10 @@ my full portfolio.
 
 *Monte Carlo Integration In MatLab*
 
+*Differential equations in Matlab*
+
+*Modelling the solar system*
+
 ## EDUCATION 
 
 ### Degrees Conferred
