@@ -38,7 +38,8 @@ my full portfolio.
 ### Data Science
 
 ### Physical Sciences
-
+*Monte Carlo Integration In Python*
+*Monte Carlo Integration In MatLab*
 
 ## EDUCATION 
 
