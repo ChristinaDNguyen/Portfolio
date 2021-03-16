@@ -10,7 +10,7 @@ my full portfolio.
 1. Satire
 
 
-[*Evidence for astrological charts*](https://github.com/TorontoYYZ/Portfolio/blob/main/Satire_Paper.pdf) and its [*Statement of authorial intent*](https://github.com/TorontoYYZ/Portfolio/blob/main/Statement%20of%20Authorial%20Intent.docx)
+[*Evidence for astrological charts*](https://github.com/TorontoYYZ/Portfolio/blob/main/Satire_Paper.pdf) and its [*Statement of authorial intent*](https://github.com/TorontoYYZ/Portfolio/blob/main/Statement%20of%20Authorial%20Intent.pdf)
 
 2. Book Reviews
 
