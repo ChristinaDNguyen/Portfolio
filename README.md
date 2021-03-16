@@ -20,7 +20,7 @@ my full portfolio.
 3. Theatre Reviews
 
 
-[*Weyni Mengehsa's Stunning Production of 'A Streetcar Named Desire': changes to the Williams text*](https://github.com/TorontoYYZ/Portfolio/blob/main/Review%20of%20'Streetcar'.pdf)
+[*Weyni Mengesha's Stunning Production of 'A Streetcar Named Desire': changes to the Williams text*](https://github.com/TorontoYYZ/Portfolio/blob/main/Review%20of%20'Streetcar'.pdf)
 
 4. Literature Honours Thesis
 
