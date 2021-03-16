@@ -5,7 +5,7 @@ my full portfolio.
 
 ## PUBLICATIONS
 
-### HumanitiesCancel Changes
+### Humanities
 
 1. SatirE
 
