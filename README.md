@@ -42,19 +42,27 @@ my full portfolio.
 
 ## EDUCATION 
 
-###Degrees Conferred
-###Non-Degree Courses
+### Degrees Conferred
+### Non-Degree Courses
 *Making and Meaning in the Medieval Manuscript,* Harvard edX, January 2021
 *Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado boulder, in progress
-###Awards (and pending)
+### Awards (and pending)
 Candidate for the MacCall-McBain Bursary, McGill University, 2020-2021	
+
 Candidate for the Newman Center Bursary, McGill University, 2021	
+
 Recipient of WikiJobs Student Bursary for Academic Pursuits, 2010	
+
 Recipient of the Vietnamese Association Toronto Community Service Award	
+
 Recipient of the St. Marguerite D'Youville Parish Award for Academic Pursuits, 2017	
+
 Recipient of YorK University Entrance Scholarship, 2017	
+
 Recipient of York University Student Life Award, 2017	
+
 Recipient of York University Undergraduate Bursary, 2019	
+
 Recipient of York University Undergraduate Bursary, 2020	
 
 
