@@ -12,7 +12,7 @@ my full portfolio.
 [*A Critical Review of Guy Delisle's 'Pyongyang': The trap of the Westerner's ignorance*](https://github.com/TorontoYYZ/Portfolio/blob/main/A%20Critical%20Review%20of%20Guy%20Delisle's%20'Pyongyang'.pdf)
 
 ### Theatre Reviews
-*Weyni Mengehsa's Stunning Production of 'A Streetcar Named Desire': changes to the Williams text*
+[*Weyni Mengehsa's Stunning Production of 'A Streetcar Named Desire': changes to the Williams text*](https://github.com/TorontoYYZ/Portfolio/blob/main/Review%20of%20'Streetcar'.pdf)
 
 ### Literature Honours Thesis
 *Marlowe's 'Faustus' and the greatest sin* (in progress)
