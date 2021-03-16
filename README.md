@@ -55,13 +55,16 @@ my full portfolio.
 *Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado boulder, in progress
 
 ### Awards (and pending)
+
+Candidate for the Franc and Mary Joubin Bursary, York University, 2021
+
 Candidate for the MacCall-McBain Bursary, McGill University, 2020-2021	
 
 Candidate for the Newman Center Bursary, McGill University, 2021	
 
-Recipient of WikiJobs Student Bursary for Academic Pursuits, 2010	
+Recipient of WikiJobs Student Bursary for Academic Pursuits, 2019-2020
 
-Recipient of the Vietnamese Association Toronto Community Service Award	
+Recipient of the Vietnamese Association Toronto Community Service Award, 2020
 
 Recipient of the St. Marguerite D'Youville Parish Award for Academic Pursuits, 2017	
 
