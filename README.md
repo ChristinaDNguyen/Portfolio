@@ -3,7 +3,7 @@ Hi human! My name is Tina, and here you can find a brief portfolio of my academi
 You can find my [LinkedIn here](https://www.linkedin.com/in/cnguyen99/) and download my resume as a [PDF here](https://github.com/TorontoYYZ/Portfolio/blob/main/Resume.pdf). Contact me at christina.nguyen99@hotmail.com for 
 my full portfolio.
 
-## EDUCATION 
+# EDUCATION 
 
 ### Degrees Conferred
 *B.A. English, hons.,* York University, June 2021 (pending)
@@ -15,9 +15,9 @@ my full portfolio.
 
 *Expore French Immersion Program* at the Universite du Quebec at Chicoutimi, Spring 2021, in progress
 
-## PAPERS AND PUBLICATIONS
+# PAPERS AND PUBLICATIONS
 
-### Humanities
+## Humanities
 
 1. Satire
 
@@ -50,9 +50,9 @@ my full portfolio.
 
 [*Individual learning portfolio: health humanitarianism*](https://github.com/TorontoYYZ/Portfolio/blob/main/Individual%20Learning%20Portfolio%20-%20Final%20Project.pdf)
 
-### Data Science
+## Data Science
 
-### Physical Sciences
+## Physical Sciences
 *Monte Carlo Integration In Python*
 
 *Monte Carlo Integration In MatLab*
@@ -68,7 +68,7 @@ __
 
 
 
-## TESTS, LICENCES, AND CERTIFICATIONS
+# TESTS, LICENCES, AND CERTIFICATIONS
 *French language examination at the Center for Medieval Studies at the University of Toronto,* January 2021, [passed](https://github.com/TorontoYYZ/Portfolio/blob/main/CMS%20French%20Certification.pdf)
 
 *German language examination at the Center for Medieval Studies at the University of Toronto,* April 2021, pending
@@ -77,7 +77,7 @@ __
 
 *Latin II language examination at the Center for Medieval Studies at the University of Toronto,* pending
 
-## AWARDS AND SCHOLARSHIPS
+# AWARDS AND SCHOLARSHIPS
 
 Recipient of the Franc and Mary Joubin Bursary, York University, 2021
 
@@ -99,7 +99,7 @@ Recipient of York University Student Life Award, 2017
 
 # SCHOLARLY PRESENTATIONS
 
-## RESEARCH AREAS
+# RESEARCH AREAS
 
 Primary: pending
 
@@ -114,7 +114,7 @@ Intermediate: French
 Reading: German
 
 
-## PROFESSIONAL ACTIVITY
+# PROFESSIONAL ACTIVITY
 
 Member of the Tolkien Society (2021-)
  
