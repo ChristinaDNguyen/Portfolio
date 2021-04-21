@@ -3,7 +3,7 @@ Hi human! My name is Tina, and here you can find a brief portfolio of my academi
 You can find my [LinkedIn here](https://www.linkedin.com/in/cnguyen99/) and download my resume as a [PDF here](https://github.com/TorontoYYZ/Portfolio/blob/main/Resume.pdf). Contact me at christina.nguyen99@hotmail.com for 
 my full portfolio.
 
-# EDUCATION 
+# 1. EDUCATION 
 
 ### Degrees Conferred
 *B.A. English, hons.,* York University, June 2021 (pending)
@@ -15,7 +15,7 @@ my full portfolio.
 
 *Expore French Immersion Program* at the Universite du Quebec at Chicoutimi, Spring 2021, in progress
 
-# PAPERS AND PUBLICATIONS
+# 2. PAPERS AND PUBLICATIONS
 
 ## Humanities
 
@@ -68,7 +68,7 @@ __
 
 
 
-# TESTS, LICENCES, AND CERTIFICATIONS
+# 3. TESTS, LICENCES, AND CERTIFICATIONS
 *French language examination at the Center for Medieval Studies at the University of Toronto,* January 2021, [passed](https://github.com/TorontoYYZ/Portfolio/blob/main/CMS%20French%20Certification.pdf)
 
 *German language examination at the Center for Medieval Studies at the University of Toronto,* April 2021, pending
@@ -77,7 +77,7 @@ __
 
 *Latin II language examination at the Center for Medieval Studies at the University of Toronto,* pending
 
-# AWARDS AND SCHOLARSHIPS
+# 4. AWARDS AND SCHOLARSHIPS
 
 Recipient of the Franc and Mary Joubin Bursary, York University, 2021
 
@@ -97,16 +97,16 @@ Recipient of York University Entrance Scholarship, 2017
 
 Recipient of York University Student Life Award, 2017	
 
-# SCHOLARLY PRESENTATIONS
+# 5. SCHOLARLY PRESENTATIONS
 
-# RESEARCH AREAS
+# 6. RESEARCH AREAS
 
 Primary: pending
 
 Secondary: diaspora literature, science-fiction and fantasy, Tolkien literature and linguistics, data architecture, system analysis, book history and print culture
 
-## TEACHING
-## LANGUAGES
+## 7. TEACHING
+## 8. LANGUAGES
 Native/Fluent: English, Vietnamese
 
 Intermediate: French
@@ -114,7 +114,7 @@ Intermediate: French
 Reading: German
 
 
-# PROFESSIONAL ACTIVITY
+# 9. PROFESSIONAL ACTIVITY
 
 Member of the Tolkien Society (2021-)
  
