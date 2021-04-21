@@ -5,10 +5,10 @@ my full portfolio.
 
 # 1. EDUCATION 
 
-### Degrees Conferred
+## 1.1 Degrees Conferred
 *B.A. English, hons.,* York University, June 2021 (pending)
 
-### Non-Degree Courses
+## 1.2 Non-Degree Courses
 *Making and Meaning in the Medieval Manuscript,* Harvard edX, January 2021
 
 *Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado Boulder, in progress*
@@ -17,29 +17,29 @@ my full portfolio.
 
 # 2. PAPERS AND PUBLICATIONS
 
-## Humanities
+## 2.1 Humanities
 
-### Satire
+### 2.1.1 Satire
 
 
 [*Evidence for astrological charts*](https://github.com/TorontoYYZ/Portfolio/blob/main/Satire_Paper.pdf) and its [*Statement of authorial intent*](https://github.com/TorontoYYZ/Portfolio/blob/main/Statement%20of%20Authorial%20Intent.pdf)
 
-### Book Reviews
+### 2.1.2 Book Reviews
 
 
 [*A Critical Review of Guy Delisle's 'Pyongyang': The trap of the Westerner's ignorance*](https://github.com/TorontoYYZ/Portfolio/blob/main/A%20Critical%20Review%20of%20Guy%20Delisle's%20'Pyongyang'.pdf)
 
-### Theatre Reviews
+### 2.1.3 Theatre Reviews
 
 
 [*Weyni Mengesha's Stunning Production of 'A Streetcar Named Desire': changes to the Williams text*](https://github.com/TorontoYYZ/Portfolio/blob/main/Review%20of%20'Streetcar'.pdf)
 
-### Literature Honours Thesis
+### 2.1.4 Literature Honours Thesis
 
 
 [*Marlowe's 'Faustus,' the greatest sin of despair, and lack of repentance: why salvation is impossible for Faustus*](https://github.com/TorontoYYZ/Portfolio/blob/main/Nguyen.Christina.April.23.2021.pdf)
 
-### International Development
+### 2.1.5 nternational Development
 
 
 [*WID and WAD: Two approaches to women's involvement in development*](https://github.com/TorontoYYZ/Portfolio/blob/main/A%20Critical%20Approach%20to%20Women%20in%20Development%20(Essay%202).docx)
@@ -50,9 +50,9 @@ my full portfolio.
 
 [*Individual learning portfolio: health humanitarianism*](https://github.com/TorontoYYZ/Portfolio/blob/main/Individual%20Learning%20Portfolio%20-%20Final%20Project.pdf)
 
-## Data Science
+## 2.2 Data Science
 
-## Physical Sciences
+## 2.3 Physical Sciences
 *Monte Carlo Integration In Python*
 
 *Monte Carlo Integration In MatLab*
