@@ -32,10 +32,13 @@ my full portfolio.
 5. International Development
 
 
-*WID and WAD: Two approaches to women's involvement in development*
+[*WID and WAD: Two approaches to women's involvement in development*](https://github.com/TorontoYYZ/Portfolio/blob/main/A%20Critical%20Approach%20to%20Women%20in%20Development%20(Essay%202).docx)
 
 
 [*A case study of Venezuela's collapse, 2015*](https://github.com/TorontoYYZ/Portfolio/blob/main/Venezuela%20Policy.pdf)
+
+
+[*Individual learning portfolio: health humanitarianism*](https://github.com/TorontoYYZ/Portfolio/blob/main/Individual%20Learning%20Portfolio%20-%20Final%20Project.pdf)
 
 ### Data Science
 
