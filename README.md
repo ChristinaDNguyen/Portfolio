@@ -6,6 +6,8 @@ my full portfolio.
 ## EDUCATION 
 
 ### Degrees Conferred
+*B.A. English, hons.,* York University, June 2021 (pending)
+
 ### Non-Degree Courses
 *Making and Meaning in the Medieval Manuscript,* Harvard edX, January 2021
 
