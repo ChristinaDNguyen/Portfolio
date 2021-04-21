@@ -91,7 +91,7 @@ Recipient of York University Undergraduate Bursary, 2019
 
 Recipient of the St. Marguerite D'Youville Parish Award for Academic Pursuits, 2017	
 
-Recipient of YorK University Entrance Scholarship, 2017	
+Recipient of York University Entrance Scholarship, 2017	
 
 Recipient of York University Student Life Award, 2017	
 
