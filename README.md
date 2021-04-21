@@ -39,7 +39,7 @@ my full portfolio.
 
 [*Marlowe's 'Faustus,' the greatest sin of despair, and lack of repentance: why salvation is impossible for Faustus*](https://github.com/TorontoYYZ/Portfolio/blob/main/Nguyen.Christina.April.23.2021.pdf)
 
-### 2.1.5 nternational Development
+### 2.1.5 International Development
 
 
 [*WID and WAD: Two approaches to women's involvement in development*](https://github.com/TorontoYYZ/Portfolio/blob/main/A%20Critical%20Approach%20to%20Women%20in%20Development%20(Essay%202).docx)
