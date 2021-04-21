@@ -27,7 +27,8 @@ my full portfolio.
 4. Literature Honours Thesis
 
 
-*Marlowe's 'Faustus' and the greatest sin of despair* (in progress)
+[*Marlowe's 'Faustus' and the greatest sin of despair*]
+(https://github.com/TorontoYYZ/Portfolio/blob/main/Nguyen.Christina.April.23.2021.pdf)
 
 5. International Development
 
