@@ -27,7 +27,7 @@ my full portfolio.
 4. Literature Honours Thesis
 
 
-[*Marlowe's 'Faustus' and the greatest sin of despair*](https://github.com/TorontoYYZ/Portfolio/blob/main/Nguyen.Christina.April.23.2021.pdf)
+[*Marlowe's 'Faustus,' the greatest sin of despair, and lack of repentance: why salvation is impossible for Faustus*](https://github.com/TorontoYYZ/Portfolio/blob/main/Nguyen.Christina.April.23.2021.pdf)
 
 5. International Development
 
@@ -47,6 +47,11 @@ my full portfolio.
 *Differential equations in MatLab*
 
 *Modelling the solar system*
+
+*Deriving equations of motion*
+
+*Integrating the Gaussian function*
+__
 
 ## EDUCATION 
 
