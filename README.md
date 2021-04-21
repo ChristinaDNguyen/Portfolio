@@ -1,4 +1,4 @@
-# Christina Nguyen's Portfolio
+# Christina Nguyen's Academic Portfolio
 Hi human! My name is Tina, and here you can find a brief portfolio of my academic work, seperated by subject.
 You can find my [LinkedIn here](https://www.linkedin.com/in/cnguyen99/) and download my resume as a [PDF here](https://github.com/TorontoYYZ/Portfolio/blob/main/Resume.pdf). Contact me at christina.nguyen99@hotmail.com for 
 my full portfolio.
