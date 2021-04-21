@@ -98,11 +98,19 @@ Recipient of York University Student Life Award, 2017
 # SCHOLARLY PRESENTATIONS
 
 ## RESEARCH AREAS
+
+Primary: pending
+
+Secondary: diaspora literature, science-fiction and fantasy, Tolkien literature and linguistics, data architecture, system analysis, book history and print culture
+
 ## TEACHING
 ## LANGUAGES
 Native/Fluent: English, Vietnamese
+
 Intermediate: French
+
 Reading: German
+
 
 ## PROFESSIONAL ACTIVITY
 
