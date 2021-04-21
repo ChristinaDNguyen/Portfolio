@@ -50,9 +50,9 @@ my full portfolio.
 
 [*Individual learning portfolio: health humanitarianism*](https://github.com/TorontoYYZ/Portfolio/blob/main/Individual%20Learning%20Portfolio%20-%20Final%20Project.pdf)
 
-### Data Science
+## Data Science
 
-### Physical Sciences
+## Physical Sciences
 *Monte Carlo Integration In Python*
 
 *Monte Carlo Integration In MatLab*
