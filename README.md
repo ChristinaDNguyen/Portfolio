@@ -11,7 +11,7 @@ my full portfolio.
 ### Non-Degree Courses
 *Making and Meaning in the Medieval Manuscript,* Harvard edX, January 2021
 
-*Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado *Boulder, in progress*
+*Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado Boulder, in progress*
 
 *Expore French Immersion Program* at the Universite du Quebec at Chicoutimi, Spring 2021, in progress
 
@@ -64,7 +64,6 @@ my full portfolio.
 *Deriving equations of motion*
 
 *Integrating the Gaussian function*
-__
 
 
 
