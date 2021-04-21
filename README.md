@@ -19,27 +19,27 @@ my full portfolio.
 
 ## Humanities
 
-1. Satire
+### Satire
 
 
 [*Evidence for astrological charts*](https://github.com/TorontoYYZ/Portfolio/blob/main/Satire_Paper.pdf) and its [*Statement of authorial intent*](https://github.com/TorontoYYZ/Portfolio/blob/main/Statement%20of%20Authorial%20Intent.pdf)
 
-2. Book Reviews
+### Book Reviews
 
 
 [*A Critical Review of Guy Delisle's 'Pyongyang': The trap of the Westerner's ignorance*](https://github.com/TorontoYYZ/Portfolio/blob/main/A%20Critical%20Review%20of%20Guy%20Delisle's%20'Pyongyang'.pdf)
 
-3. Theatre Reviews
+### Theatre Reviews
 
 
 [*Weyni Mengesha's Stunning Production of 'A Streetcar Named Desire': changes to the Williams text*](https://github.com/TorontoYYZ/Portfolio/blob/main/Review%20of%20'Streetcar'.pdf)
 
-4. Literature Honours Thesis
+### Literature Honours Thesis
 
 
 [*Marlowe's 'Faustus,' the greatest sin of despair, and lack of repentance: why salvation is impossible for Faustus*](https://github.com/TorontoYYZ/Portfolio/blob/main/Nguyen.Christina.April.23.2021.pdf)
 
-5. International Development
+### International Development
 
 
 [*WID and WAD: Two approaches to women's involvement in development*](https://github.com/TorontoYYZ/Portfolio/blob/main/A%20Critical%20Approach%20to%20Women%20in%20Development%20(Essay%202).docx)
@@ -50,9 +50,9 @@ my full portfolio.
 
 [*Individual learning portfolio: health humanitarianism*](https://github.com/TorontoYYZ/Portfolio/blob/main/Individual%20Learning%20Portfolio%20-%20Final%20Project.pdf)
 
-## Data Science
+### Data Science
 
-## Physical Sciences
+### Physical Sciences
 *Monte Carlo Integration In Python*
 
 *Monte Carlo Integration In MatLab*
