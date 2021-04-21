@@ -3,7 +3,15 @@ Hi human! My name is Tina, and here you can find a brief portfolio of my academi
 You can find my [LinkedIn here](https://www.linkedin.com/in/cnguyen99/) and download my resume as a [PDF here](https://github.com/TorontoYYZ/Portfolio/blob/main/Resume.pdf). Contact me at christina.nguyen99@hotmail.com for 
 my full portfolio.
 
-## EDUCATION
+## EDUCATION 
+
+### Degrees Conferred
+### Non-Degree Courses
+*Making and Meaning in the Medieval Manuscript,* Harvard edX, January 2021
+
+*Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado *Boulder, in progress*
+
+*Expore French Immersion Program* at the Universite du Quebec at Chicoutimi, Spring 2021, in progress
 
 ## PAPERS AND PUBLICATIONS
 
@@ -56,17 +64,9 @@ my full portfolio.
 *Integrating the Gaussian function*
 __
 
-## EDUCATION 
 
-### Degrees Conferred
-### Non-Degree Courses
-*Making and Meaning in the Medieval Manuscript,* Harvard edX, January 2021
 
-*Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado *Boulder, in progress*
-
-*Expore French Immersion Program* at the Universite du Quebec at Chicoutimi, Spring 2021, in progress
-
-### Tests, Licenses, and Certificates
+## TESTS, LICENCES, AND CERTIFICATIONS
 *French language examination at the Center for Medieval Studies at the University of Toronto,* January 2021, [passed](https://github.com/TorontoYYZ/Portfolio/blob/main/CMS%20French%20Certification.pdf)
 
 *German language examination at the Center for Medieval Studies at the University of Toronto,* April 2021, pending
@@ -95,5 +95,18 @@ Recipient of York University Entrance Scholarship, 2017
 
 Recipient of York University Student Life Award, 2017	
 
+# SCHOLARLY PRESENTATIONS
 
+## RESEARCH AREAS
+## TEACHING
+## LANGUAGES
+Native/Fluent: English, Vietnamese
+Intermediate: French
+Reading: German
+
+## PROFESSIONAL ACTIVITY
+
+Member of the Tolkien Society (2021-)
+ 
+Junior member of the Canadian Aeronautics and Space Institute (2020-)
 
