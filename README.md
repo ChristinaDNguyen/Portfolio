@@ -61,8 +61,14 @@ __
 ### Degrees Conferred
 ### Non-Degree Courses
 *Making and Meaning in the Medieval Manuscript,* Harvard edX, January 2021
+*Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado boulder, in progress*
+*Expore French Immersion Program* at the Universite du Quebec at Chicoutimi, Spring 2021, in progress
 
-*Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado boulder, in progress
+### Tests, Licenses, and Certificates
+*French language examination at the Center for Medieval Studies at the University of Toronto,* January 2021, [passed](https://github.com/TorontoYYZ/Portfolio/blob/main/CMS%20French%20Certification.pdf)
+*German language examination at the Center for Medieval Studies at the University of Toronto,* April 2021, pending
+*Latin I language examination at the Center for Medieval Studies at the University of Toronto,* pending
+*Latin II language examination at the Center for Medieval Studies at the University of Toronto,* pending
 
 ## AWARDS AND SCHOLARSHIPS
 
