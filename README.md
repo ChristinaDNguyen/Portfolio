@@ -3,7 +3,9 @@ Hi human! My name is Tina, and here you can find a brief portfolio of my academi
 You can find my [LinkedIn here](https://www.linkedin.com/in/cnguyen99/) and download my resume as a [PDF here](https://github.com/TorontoYYZ/Portfolio/blob/main/Resume.pdf). Contact me at christina.nguyen99@hotmail.com for 
 my full portfolio.
 
-## PAPERS AND PROGRAMS
+## EDUCATION
+
+## PAPERS AND PUBLICATIONS
 
 ### Humanities
 
@@ -54,7 +56,7 @@ my full portfolio.
 
 *Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado boulder, in progress
 
-### Awards (and pending)
+## AWARDS AND SCHOLARSHIPS
 
 Candidate for the Franc and Mary Joubin Bursary, York University, 2021
 
