@@ -15,7 +15,7 @@ my full portfolio.
 
 *Expore French Immersion Program* at the Universite du Quebec at Chicoutimi, Spring 2021, in progress
 
-# 2. PAPERS AND PUBLICATIONS
+# 2. PAPERS AND WRITING SAMPLES
 
 ## 2.1 Humanities
 
@@ -119,3 +119,8 @@ Member of the Tolkien Society (2021-)
  
 Junior member of the Canadian Aeronautics and Space Institute (2020-)
 
+# 10. ACADEMIC AND ANCILLARY PUBLICATIONS
+## 10.1 Academic_
+## 10.2 Ancillary
+
+_Amon Hen_
