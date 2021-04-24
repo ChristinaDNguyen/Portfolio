@@ -65,6 +65,7 @@ my full portfolio.
 
 *Integrating the Gaussian function*
 
+[*Sample Analysis of Variance in Physics, on Excel*](https://github.com/TorontoYYZ/Portfolio/blob/main/Sample%20ANOVA%20in%20physics.xlsx)
 
 
 # 3. TESTS, LICENCES, AND CERTIFICATIONS
