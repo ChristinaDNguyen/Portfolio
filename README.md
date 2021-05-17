@@ -125,3 +125,8 @@ Junior member of the Canadian Aeronautics and Space Institute (2020-)
 ## 10.2 Ancillary
 
 _Amon Hen_
+
+# 11. ACADEMIC AND ANCILLARY PRESENTATIONS
+## Language and Literature
+## Physics and Astronomy
+I am a regularly contributing member of the Allan I. Carswell Observatory at York University. You can see my work in many of our events, including the Wednesday evening TeleTubes here: https://www.youtube.com/user/YorkUObservatory/videos. 
