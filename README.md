@@ -13,7 +13,6 @@ my full portfolio.
 
 *Discovering secrets: the illuminated manuscripts of medieval Europe,* University of Colorado Boulder, in progress*
 
-*Expore French Immersion Program* at the Universite du Quebec at Chicoutimi, Spring 2021, in progress
 
 # 2. PAPERS AND WRITING SAMPLES
 
@@ -125,8 +124,14 @@ Member of the Tolkien Society (2021-)
 Junior member of the Canadian Aeronautics and Space Institute (2020-)
 
 # 10. ACADEMIC AND ANCILLARY PUBLICATIONS
-## 10.1 Academic_
+## 10.1 Academic
+
 ## 10.2 Ancillary
+
+### Medical Sciences: Anorexia Nervosa
+### History: L'anse aux meadows, Java Man
+### Human sciences
+### Physical sciences
 
 _Amon Hen_
 
