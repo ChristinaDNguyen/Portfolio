@@ -52,7 +52,7 @@ You can find my [LinkedIn here](https://www.linkedin.com/in/cnguyen99/) and down
 
 *Lunar observation project*
 
-*Sunspot observation project*
+[*Sunspot observation project*](https://github.com/TorontoYYZ/Portfolio/blob/main/Sunspots%20Term%20Project%2C%20March%2029%2C%202021.pdf)
 
 *Monte Carlo Integration In Python*
 
