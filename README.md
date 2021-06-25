@@ -1,7 +1,6 @@
 
-Hi human! My name is Tina, and here you can find a brief portfolio of my academic work, seperated by subject.
-You can find my [LinkedIn here](https://www.linkedin.com/in/cnguyen99/) and download my resume as a [PDF here](https://github.com/TorontoYYZ/Portfolio/blob/main/Resume.pdf). Contact me at christina.nguyen99@hotmail.com for 
-my full portfolio.
+Hello there! I'm Tina, and here you can find a brief portfolio of my academic work, seperated by subject.
+You can find my [LinkedIn here](https://www.linkedin.com/in/cnguyen99/) and download my current resume as a [PDF here](https://github.com/TorontoYYZ/Portfolio/blob/main/Resume.pdf). 
 
 # 1. EDUCATION 
 
@@ -72,12 +71,6 @@ my full portfolio.
 
 # 3. TESTS, LICENCES, AND CERTIFICATIONS
 *French language examination at the Center for Medieval Studies at the University of Toronto,* January 2021, [passed](https://github.com/TorontoYYZ/Portfolio/blob/main/CMS%20French%20Certification.pdf)
-
-*German language examination at the Center for Medieval Studies at the University of Toronto,* April 2021, pending
-
-*Latin I language examination at the Center for Medieval Studies at the University of Toronto,* pending
-
-*Latin II language examination at the Center for Medieval Studies at the University of Toronto,* pending
 
 # 4. AWARDS AND SCHOLARSHIPS
 
