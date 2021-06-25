@@ -52,6 +52,11 @@ my full portfolio.
 ## 2.2 Data Science
 
 ## 2.3 Physical Sciences
+
+*Lunar observation project*
+
+*Sunspot observation project*
+
 *Monte Carlo Integration In Python*
 
 *Monte Carlo Integration In MatLab*
