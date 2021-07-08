@@ -135,3 +135,5 @@ _Amon Hen_
 ## Language and Literature
 ## Physics and Astronomy
 I am a regularly contributing member of the Allan I. Carswell Observatory at York University. You can see my work in many of our events, including the Wednesday evening TeleTubes here: https://www.youtube.com/user/YorkUObservatory/videos. 
+
+Of special note is Wednesday, July 7th's TeleTube, 'Ask Me Anything with Professor Hyde, the Director of the Allan I. Carswell Observatory.'
