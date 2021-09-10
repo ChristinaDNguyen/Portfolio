@@ -96,9 +96,9 @@ Recipient of York University Student Life Award, 2017
 
 # 6. RESEARCH AREAS
 
-Primary: pending
+Primary: distant reading, Tolkien literature and linguistics, natural language processing, R
 
-Secondary: diaspora literature, science-fiction and fantasy, Tolkien literature and linguistics, data architecture, system analysis, book history and print culture
+Secondary: diaspora literature, science-fiction and fantasy, data architecture, system analysis, book history and print culture, Python
 
 ## 7. TEACHING
 ## 8. LANGUAGES
@@ -120,16 +120,6 @@ Member of the Tolkien Society (2021-)
 Junior member of the Canadian Aeronautics and Space Institute (2020-)
 
 # 10. ACADEMIC AND ANCILLARY PUBLICATIONS
-## 10.1 Academic
-
-## 10.2 Ancillary
-
-### Medical Sciences: Anorexia Nervosa
-### History: L'anse aux meadows, Java Man
-### Human sciences
-### Physical sciences
-
-_Amon Hen_
 
 # 11. ACADEMIC AND ANCILLARY PRESENTATIONS
 ## Language and Literature
