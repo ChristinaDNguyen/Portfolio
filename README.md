@@ -106,11 +106,12 @@ Native/Fluent: English, Vietnamese
 
 Intermediate: French
 
+Reading: German
+
 ## 9. OTHER ACADEMIC INTERESTS
 
 I am extremely interested in astronomy, astrophysics, cosmology, aviation and aerospace engineering. 
 
-Reading: German
 
 
 # 9. PROFESSIONAL ACTIVITY
