@@ -1,6 +1,6 @@
 
 Hello there! I'm Tina, and here you can find a brief portfolio of my academic work, seperated by subject.
-You can find my [LinkedIn here](https://www.linkedin.com/in/cnguyen99/) and download my current resume as a [PDF here](https://github.com/TorontoYYZ/Portfolio/blob/main/Resume.pdf). 
+You can find my [LinkedIn here](https://www.linkedin.com/in/cnguyen99/) and download my current resume as a [PDF here](https://github.com/TorontoYYZ/Portfolio/blob/main/Resume.pdf). My ORCID is https://orcid.org/0000-0003-0938-9836.
 
 # 1. EDUCATION 
 
