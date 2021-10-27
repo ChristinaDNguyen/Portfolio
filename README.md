@@ -42,7 +42,7 @@ Secondary research: diaspora literature, science-fiction and fantasy, data archi
 
 ### Text analysis with R
 
-[*An initial foray into sentiment analysis with R: Sentiment Analysis of Leaf by Niggle and Farmer Giles of Ham*]
+[*An initial foray into sentiment analysis with R: Sentiment Analysis of Leaf by Niggle and Farmer Giles of Ham*] and its [*R code*](https://github.com/TorontoYYZ/Portfolio/blob/main/sentiment_analysis_r_code.R)
 
 
 ## 2 Data and Information Science
