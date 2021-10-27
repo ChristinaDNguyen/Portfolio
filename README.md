@@ -40,7 +40,7 @@ Secondary research: diaspora literature, science-fiction and fantasy, data archi
 
 [*Individual learning portfolio: health humanitarianism*](https://github.com/TorontoYYZ/Portfolio/blob/main/Individual%20Learning%20Portfolio%20-%20Final%20Project.pdf)
 
-### Text analysis with R
+### 1.6 Text analysis with R
 
 [*An initial foray into sentiment analysis with R: Sentiment Analysis of Leaf by Niggle and Farmer Giles of Ham*] and its [*R code*](https://github.com/TorontoYYZ/Portfolio/blob/main/sentiment_analysis_r_code.R)
 
