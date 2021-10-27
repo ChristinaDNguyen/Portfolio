@@ -44,6 +44,7 @@ Secondary research: diaspora literature, science-fiction and fantasy, data archi
 
 [*An initial foray into sentiment analysis with R: Sentiment Analysis of Leaf by Niggle and Farmer Giles of Ham*] and its [*R code*](https://github.com/TorontoYYZ/Portfolio/blob/main/sentiment_analysis_r_code.R)
 
+*Syuzhet package's sentiment mapping of* [*Children of Hurin*](https://github.com/TorontoYYZ/Portfolio/blob/main/1.%20Children%20of%20Hurin%20Sentiments.png), [*Lord of the Rings*](https://github.com/TorontoYYZ/Portfolio/blob/main/2.%20Lord%20of%20the%20Rings%20Sentiments.png), [*The Hobbit*](https://github.com/TorontoYYZ/Portfolio/blob/main/3.%20The%20Hobbit%20Sentiments.png), and [*The Silmarillion*](https://github.com/TorontoYYZ/Portfolio/blob/main/4.%20The%20Silmarillion%20Sentiments.png)
 
 ## 2 Data and Information Science
 
