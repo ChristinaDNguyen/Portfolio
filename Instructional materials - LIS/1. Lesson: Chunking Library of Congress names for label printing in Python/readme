@@ -1,4 +1,4 @@
-This lesson is a practical example of a Python code that does the following:
+This lesson is a practical example of an R code that does the following:
 
 - takes a CSV file (Excel file) containing Library of Congress classifications (ex. BX100)
 - and splits it into chunks of x-length characters
