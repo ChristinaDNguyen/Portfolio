@@ -1,0 +1,7 @@
+This lesson is a practical example of a Python code that does the following:
+
+- takes a CSV file (Excel file) containing Library of Congress classifications (ex. BX100)
+- and splits it into chunks of x-length characters
+- prints those chunks out again as columns side-by-side.
+
+This example is from the Newman Centre Library's collection of materials and their classifcations.
