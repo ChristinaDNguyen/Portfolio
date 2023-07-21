@@ -1,1 +1,17 @@
+#To ensure the integrity of preserved files, archivists and librarians can use Python to calculate and validate checksums.
+#"Integrity of preserved files" means checking the files every so often the make sure that they haven't corrupted, and that
+#they still contain the same information each time you check it.
 
+import hashlib
+
+# Calculate the checksum (SHA-256) of a file
+def calculate_checksum(file_path):
+    sha256 = hashlib.sha256()
+    with open(file_path, "rb") as file:
+        while chunk := file.read(65536):
+            sha256.update(chunk)
+    return sha256.hexdigest()
+
+# Validate a file's checksum against a given checksum value
+def validate_checksum(file_path, expected_checksum):
+    return calculate_checksum(file_path) == expected_checksum
