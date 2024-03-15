@@ -1,0 +1,12 @@
+from docx import Document
+
+# Convert a text file to a Word document (.docx)
+def text_to_docx(text_file, docx_file):
+    with open(text_file, "r") as file:
+        text = file.read()
+    doc = Document()
+    doc.add_paragraph(text)
+    doc.save(docx_file)
+
+# Of course this can be done while converting any file type to another file type, not specifically
+#.txt to .docx as shown here.
